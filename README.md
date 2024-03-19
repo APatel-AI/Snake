@@ -8,5 +8,5 @@
 3. Run the compiled Java class using `java SnakeGame`.
 4. Use the arrow keys to control the snake.
 
-#Preview:
+# Preview:
 ![Snake game](https://github.com/APatel-AI/snake/blob/main/snake_game.png?raw=true)
