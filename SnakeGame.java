@@ -7,7 +7,7 @@ import java.util.Random;
 public class SnakeGame extends JPanel implements KeyListener, ActionListener {
     private static final int TILE_SIZE = 30;
     private static final int BOARD_WIDTH = 30;
-    private static final int BOARD_HEIGHT = 30;
+    private static final int BOARD_HEIGHT = 20;
     private static final int INITIAL_SNAKE_LENGTH = 1;
     // ADJUST SNAKE MOVEMENT START TIME
     private static final int DELAY = 100;
